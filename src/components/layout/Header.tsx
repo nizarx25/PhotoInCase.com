@@ -79,7 +79,7 @@ export function Header() {
         <div className="bg-brand-700 text-white py-2 px-4 text-center text-sm">
           <span className="flex items-center justify-center gap-2">
             <Leaf className="w-4 h-4" />
-             For Sale: 2026-Ready Eco Phone Case Store – Biodegradable Products, Live Preview, Domain Included | Grab This Gem!
+             Site & Domain For Sale – Eco Phone Cases Turnkey Business | DM or Visit /forsale 🔥
           </span>
         </div>
 
