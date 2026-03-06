@@ -6,6 +6,7 @@ import { ThemeProvider } from "next-themes";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { CartDrawer } from "@/components/layout/CartDrawer";
+import { Analytics } from "@vercel/analytics/next";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -73,6 +74,7 @@ export default function RootLayout({
           <CartDrawer />
           <Toaster />
         </ThemeProvider>
+        <Analytics />
       </body>
     </html>
   );
